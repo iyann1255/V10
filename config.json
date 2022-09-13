@@ -1,7 +1,7 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "Neobot",
+    "ownerNumber": "6289516947204@s.whatsapp.net", 
+    "ownerName": "bella Official", 
+    "botName": "Botstore",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
@@ -12,6 +12,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Lexxy Official"
+        "author": "bella Official"
     }
 }
